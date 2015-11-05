@@ -1,3 +1,6 @@
+Simple sketch code for Arduino.
+Built using "Arduino NANO V3.0" and coded/tested with IDE 1.0.x.
+
 Look electric diagram and photos into "Diagrams_and_Images" directory.
 
 
