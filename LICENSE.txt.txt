@@ -1,0 +1,5 @@
+Arduino's IDE and many other libraries and utilities are licensed under a Creative Commons Attribution Share-Alike license. Check details here: https://www.arduino.cc/en/Main/FAQ
+
+Any code writed by me for this miniproject is licensed under the same license. 
+
+JoseM
